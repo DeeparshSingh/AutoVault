@@ -1,4 +1,4 @@
-# Autovault Database Project
+# AutoVault Database Project
 
 ## Overview
 
