@@ -24,6 +24,22 @@
 - **BlackListClient**: Adds clients who have violated terms to the blacklist, preventing further bookings.
 - **GenerateYearlyStats**: Generates yearly statistics, summarizing trends for reservations, clients, and vehicle usage.
 
+The **Autovault** database project can be implemented in various business scenarios where vehicle rentals are involved. Here are some potential use cases:
+
+- **Car Rental Services**: The system can manage reservations, client eligibility, and vehicle availability for car rental companies.
+- **Bike or Scooter Rentals**: Adapt the system to manage rentals of smaller vehicles like bikes or scooters in urban areas.
+- **Fleet Management for Businesses**: Large corporations with company cars can use the system to track vehicle assignments and availability.
+- **Equipment Rentals**: Extend the system to handle rentals of equipment like trucks, construction machinery, or electronics, ensuring availability and archiving rental history.
+
+
+To run and test this project, the following tools and setup are required:
+
+- **Database Management System**: Oracle, MySQL, or PostgreSQL
+- **SQL Client**: Any SQL client like SQL Developer, MySQL Workbench, or pgAdmin
+- **Environment**: Local or cloud-based database server
+- **Sample Data**: Insert your own sample data for clients, vehicles, and reservations to test functionality or use the provided data
+
+
 ## Structure
 
 The database consists of the following main tables:
