@@ -24,6 +24,8 @@
 - **BlackListClient**: Adds clients who have violated terms to the blacklist, preventing further bookings.
 - **GenerateYearlyStats**: Generates yearly statistics, summarizing trends for reservations, clients, and vehicle usage.
 
+### Use Cases
+
 The **Autovault** database project can be implemented in various business scenarios where vehicle rentals are involved. Here are some potential use cases:
 
 - **Car Rental Services**: The system can manage reservations, client eligibility, and vehicle availability for car rental companies.
@@ -31,6 +33,7 @@ The **Autovault** database project can be implemented in various business scenar
 - **Fleet Management for Businesses**: Large corporations with company cars can use the system to track vehicle assignments and availability.
 - **Equipment Rentals**: Extend the system to handle rentals of equipment like trucks, construction machinery, or electronics, ensuring availability and archiving rental history.
 
+### Requirements
 
 To run and test this project, the following tools and setup are required:
 
